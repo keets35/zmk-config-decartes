@@ -1,0 +1,6 @@
+if SHIELD_DECARTES
+
+config ZMK_KEYBOARD_NAME
+    default "decartes"
+
+endif
